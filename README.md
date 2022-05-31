@@ -1,4 +1,4 @@
- Single-Price-Grid
+ #Single-Price-Grid
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
